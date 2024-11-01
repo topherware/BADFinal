@@ -46,8 +46,8 @@ public class Main extends Application{
 		onBoardingCtr = new BorderPane();
 		menu = new MenuBar();
 		page = new Menu("Pagessss");
-		login = new MenuItem("Sign In page");
-		register = new MenuItem("Sign Up page");
+		login = new MenuItem("Login");
+		register = new MenuItem("Register");
 		
 		// Register
 		registerCtr = new BorderPane();
