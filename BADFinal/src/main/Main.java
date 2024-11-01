@@ -218,6 +218,7 @@ public class Main extends Application{
 		arrangeComponentRegister();
 		arrangeComponentLogin();
 		
+		ProductPage prodPage = new ProductPage();
 		// Start Scene
 		stage.setTitle("On Boarding Page Burunggg");
 		stage.setResizable(false);
